@@ -1,6 +1,5 @@
 # Hello
-<p>
-  <em>
-    Hi👋, I'm <b>Mohit Singh</b>. I'm a <b>Software Developer</b> & a <b> keen learner </b> who is passionate about contributing to <b>open-source projects</b>, developing <b>Android & Web applications</b>, creating technology to elevate people, and building <b>community</b>.
-  </em>
-</p>
+
+![](https://github.com/nixin72/nixin72/blob/master/wave.gif)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Hello+im+trikkaYT!;I+Programm+and+do+Youtube;Look+at+my+Projects+if+you+want)](https://git.io/typing-svg)
