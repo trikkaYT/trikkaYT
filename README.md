@@ -1,16 +1,6 @@
-
-# Hello!
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Hello+user!;My+name+is+trikkaYT;If+you+have+time%2C+you+can+look+at+my+Projects;Join+my+Discord+Server+to+contact+me)](https://git.io/typing-svg)
-
-
-
-
-Projects im working on:
-- [SofaHub](https://github.com/user/trikkayt/sofahub/usw/readme.md)
-- [TexasCrystal](https://github.com/user/trikkayt/texascrystal/usw/readme.md)
-
-
-The Programming Languages i use:
-[My Skills]
-(https://skillicons.dev/icons?i=js,html,css,java,python,flask)
+<p>
+  <em>
+    Hi there 👋, I'm <b>Mohit Singh</b>. I'm a <b>Software Developer</b> & a <b> keen learner </b> who is passionate about contributing to <b>open-source projects</b>, developing <b>Android & Web applications</b>, creating technology to elevate people, and building <b>community</b>.
+  </em>
+</p>
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
