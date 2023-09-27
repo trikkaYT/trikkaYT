@@ -12,4 +12,5 @@ Projects im working on:
 
 
 The Programming Languages i use:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,flask)]
+[My Skills]
+(https://skillicons.dev/icons?i=js,html,css,java,python,flask)
